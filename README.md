@@ -1,6 +1,6 @@
 # Module 21 Neural Network Model Project Overview
 
-This project aims to develop and evaluate a neural network model using TensorFlow's Keras API, focusing on predicting binary outcomes from a given dataset. The project encompasses several key steps: data preprocessing, model architecture design, model compilation, training, and evaluation. Each step is crucial for the successful development of a machine learning model that can accurately predict outcomes based on input data.
+This project aims to develop and evaluate a neural network model using TensorFlow's Keras API, focusing on predicting binary outcomes from a given dataset. The project encompasses several key steps: data preprocessing, model architecture design, model compilation, training, and evaluation. 
 
 ## Project Steps
 
